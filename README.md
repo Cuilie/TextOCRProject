@@ -11,6 +11,9 @@ npm install -g create-react-app
 npm install
 npm start
 ```
+
+Issue: Now I have to used Moesif CORS chrome plugin to support fetch request. I hope to resolve this issue soon.
+
 ## Project structure
 All frontend source code is available in /src.
 The backend(Restful-API) and model inferencing code are available in /backend.
