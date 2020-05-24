@@ -17,3 +17,8 @@ Issue: Now I have to used Moesif CORS chrome plugin to support fetch request. I 
 ## Project structure
 All frontend source code is available in /src.
 The backend(Restful-API) and model inferencing code are available in /backend.
+
+## Running demo
+![demo1](./image/Demo1.png)
+![demo2](./image/Demo2.png)
+![demo3](./image/Demo3.png)
