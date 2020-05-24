@@ -19,6 +19,6 @@ All frontend source code is available in /src.
 The backend(Restful-API) and model inferencing code are available in /backend.
 
 ## Running demo
-![demo1](./image/Demo1.png)
-![demo2](./image/Demo2.png)
-![demo3](./image/Demo3.png)
+![demo1](./image/demo1.png)
+![demo2](./image/demo2.png)
+![demo3](./image/demo3.png)
